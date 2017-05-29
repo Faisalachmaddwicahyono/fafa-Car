@@ -21,12 +21,3 @@ Screenshoot Aplikasi :
   * Screenshoot tampilan hasil output 
 ![screenshot_2016-09-15-14-16-33](https://cloud.githubusercontent.com/assets/22209856/18541492/c3d747c4-7b4f-11e6-83d6-0639b56296a9.png)
 
-Link File .apk : 
-  * https://drive.google.com/open?id=0B2OE81iOJslZNWNMRmVjbDdZcXM
-Terima Kasih
-
-Nama    : Afista Pramudya Wardhani
-Kelas   : XII RPL 1
-No. Urut: 02
-NIS     : 4105/1170.070
-Sekolah : SMK Telkom Malang
